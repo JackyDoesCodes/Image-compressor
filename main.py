@@ -13,7 +13,7 @@ QUALITY = 90
 
 main_font = ('Arial', 12)
 secondary_font = ('Lora', 24, 'bold')
-
+# yes
 
 def compress():
     file_amount = 0
