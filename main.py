@@ -1,3 +1,5 @@
+# Copyright: Joaquín Andrés Baigorria
+
 from PIL import Image
 import os
 from tkinter import Tk, Label, Button, Entry
