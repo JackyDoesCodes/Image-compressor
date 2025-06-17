@@ -1,2 +1,3 @@
-A simple software to batch compress images, made just for practice purposes in PyCharm.
-I also intend to add video compression at some point.
+A simple software to batch compress images. I also intend to add video compression at some point.
+
+Why? Just for practice and fun! And because running out of storage is annoying...
