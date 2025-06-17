@@ -28,7 +28,6 @@ class Program:
 
     def __init__(self):
         self.window = window
-        self.window.iconbitmap('res/bluejay.ico')
         self.window.title('BlueJay')
         self.window.config(padx=20, pady=20, bg=blue)
         self.window.resizable(False, False)
@@ -173,6 +172,7 @@ class Program:
 
 
 ui = Program()
+
 ui.load_ui_elements()
 
 window.mainloop()
